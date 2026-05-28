@@ -237,9 +237,9 @@ As histórias criadas seguem o modelo INVEST, pois possuem objetivos claros, val
 
 ---
 
-# Organização do GitHub
+ Organização do GitHub
 
-## Estrutura do Repositório
+ Estrutura do Repositório
 
 ```bash
 📁 sistema-prevencao-evasao
@@ -251,7 +251,7 @@ As histórias criadas seguem o modelo INVEST, pois possuem objetivos claros, val
 
 ---
 
-# Conclusão
+ Conclusão
 
 O trabalho permitiu transformar requisitos funcionais em artefatos ágeis mais organizados e próximos da realidade do desenvolvimento de software. A utilização de User Stories e cenários BDD ajudou a melhorar o entendimento das funcionalidades e do comportamento esperado do sistema.
-# trabalho2
+
